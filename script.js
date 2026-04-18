@@ -39,7 +39,7 @@ window.addEventListener('scroll', () => {
 
 // WhatsApp Integration
 // Replace this with the actual phone number when available (Format: Country Code + Number, e.g., 919876543210)
-const WHATSAPP_NUMBER = "9999347609";
+const WHATSAPP_NUMBER = "+919999347609";
 
 function contactWhatsApp(planName, price) {
     let message = "";
